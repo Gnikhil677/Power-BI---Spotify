@@ -1,5 +1,6 @@
 # 🚀 Power BI Dashboard: Spotify Listening Patterns & KPIs
 
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/b8e01a24-ae89-429f-acd8-f90db337a7f3)
 
 This project presents an **interactive Power BI dashboard** designed to analyze Spotify listening behavior in depth. It showcases **top albums, artists, and tracks over time**, allowing comparisons between the **current and previous year** to observe trends and changes in listening preferences.
 
@@ -7,7 +8,7 @@ The dashboard also breaks down **weekday vs. weekend listening habits**, providi
 
 Overall, the dashboard provides valuable insights into user behavior and listening trends, enabling more informed content strategies, personalized recommendations, or simply deeper understanding of music consumption habits.
 
-**Download my Spotify PowerBI Dashboard from here** - 
+**Download my Spotify PowerBI Dashboard from here** - https://github.com/Gnikhil677/Power-BI---Spotify/blob/main/project%202.pbix
 
 ## 🎯 Project Objectives:
 
